@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050771156164",
+    "firebase_url": "https://hellofirebase-7fd06.firebaseio.com",
+    "project_id": "hellofirebase-7fd06",
+    "storage_bucket": "hellofirebase-7fd06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050771156164:android:9df97e9b533af9c0",
+        "android_client_info": {
+          "package_name": "com.anvo.hello_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050771156164-n8ke99dnr4u1l5v23ti2r9b782vs26hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSWYfW-9sHpySid8CzfxYW2Lh9N4vFSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050771156164-n8ke99dnr4u1l5v23ti2r9b782vs26hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
