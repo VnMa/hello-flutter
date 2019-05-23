@@ -4,7 +4,6 @@ import 'package:hello_flutter/pages/pokemon-detail.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'dart:async';
-import 'dart:developer';
 
 final title = 'Poke App';
 
